@@ -1,2 +1,2 @@
 # pdf-finder
-busca palabras en cuerpo de pdf
+Script que busca palabras/texto en cuerpo de pdf en una carpeta dada.
